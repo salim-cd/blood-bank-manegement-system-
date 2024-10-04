@@ -1,4 +1,4 @@
-# blood-bank-manegement-system-Blood Bank Management System: A web application developed using HTML, CSS, and Python. This system streamlines blood donation and management processes, enabling users to register donors, manage inventory, and track blood requests. Features include user authentication, donor records, and a responsive interface for easy navigation. Ideal for hospitals and NGOs.
+# blood-bank-manegement-system-Blood Bank Management System:
 Blood Bank Management System
 
 This Blood Bank Management System is a web application designed to streamline the processes involved in blood donation, storage, and distribution. Developed using HTML, CSS, and Python, this system provides a user-friendly interface for both donors and administrators.
